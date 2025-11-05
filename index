@@ -1,0 +1,12 @@
+<!DOCTYPE html> # All HTML documents must start with a document type declaration
+
+<html> # The HTML document itself begins with <html>
+
+<body> # Begins the visible part of the HTML document
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body> # Ends the visible part of the HTML document
+
+</html> # The HTML document ends with </html>
